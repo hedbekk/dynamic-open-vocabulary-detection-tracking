@@ -14,8 +14,6 @@ Thumbs.db
 *.log
 
 # Large/unnecessary files
-*.jpg
-*.png
 *.mp4
 *.pt
 *.ipynb
